@@ -10,7 +10,6 @@ Navega al directorio del proyecto y ejecuta el comando: npm install
 
 Inicia el servidor de desarrollo:
 Una vez instaladas todas las dependencias ejecutar la aplicacion con el comando : npx react-native run-android
-Y seleccionar la opcion : run on Android
 
 
 Explicación breve de las decisiones tomadas durante el desarrollo
