@@ -24,3 +24,8 @@ Se creó un componente Post que encapsula toda la lógica y la presentación de 
 Los componentes de entrada de texto y botones de "Like" se separaron en componentes propios , lo que permite una mayor modularidad y simplifica la lógica en la pantalla principal.
 Se utilizó FlatList para renderizar las publicaciones, lo que mejora el rendimiento al manejar listas grandes.
 
+En caso de tener inconvenientes para instalar la app en el emulador ejecutar los siguientes comandos:
+cd android
+./gradlew clean
+cd ..
+npx react-native run-android
