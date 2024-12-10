@@ -25,7 +25,11 @@ Los componentes de entrada de texto y botones de "Like" se separaron en componen
 Se utilizó FlatList para renderizar las publicaciones, lo que mejora el rendimiento al manejar listas grandes.
 
 En caso de tener inconvenientes para instalar la app en el emulador ejecutar los siguientes comandos:
-#cd android 
-#./gradlew clean 
-#cd ..
-#npx react-native run-android
+
+cd android 
+
+./gradlew clean 
+
+cd ..
+
+npx react-native run-android
